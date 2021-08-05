@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-gantry-319622",
+  "private_key_id": "bd50083be9f0a9bd20e5e60b9b9e0f673c576e84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0R429Fb65f4mc\n4iE61e+j8OdNxzmhEnIZdCGVNgBA+7FXAZ2W0nauVuigGcpHgsvy6tvEiIk9wEoa\nalv1fonvL1mIsTF4a9MrllwKqlb3ZFSIJ8SpPXK9BKYsprKi+hJfIDFVf+xrKNLG\njIktNrC76zMqB3BpgVcrVfRvs28m207ECzn0d6BUrVpvMgxe8XAa5EtqVjEDvo9J\ngBakjydhxVFxrs1v5XAH32cRFEDmzLb6yStEgvwQGmb+c5VuRbQpkuieauDql3XY\nC74lP+aAgMTA3LE2JCW9utn2DgB6AqnTYmwGXAxb/hst9ZXMuIxpuVMo6qquzltR\nbnIr5IcBAgMBAAECggEAA1KFWVGXaFt5e88rleBPt7Akix3nTMF6xLwi7cHkPTcR\n33V5ezyTnFgUrd5KWf17UVuBfZnFphOjnlVHXTUSSQwcY0CkuIYXc647jwHZoc8T\nCQIN4rhiOrVw/3SpAGVDrmkEm16Kp/wuHSOc47/UxbP7+6DlMgphwtNIMp3h+Xhz\niKBfcP88kbcQWVFMrqiNjJKvoYvPV26DI8eQk+IswszTeaJWP9qS/Om5+uKhvCwB\nQh5J+9DTlbxH1cc9u+jiKswGjLvpYLP3/KAYCGKP3mdmhXR4jMF083tbxUakjTCY\npyU/FjsSl22w4WQ45m4T8e1UwgMV1P+LOH8IMmBWAwKBgQDj1xd5II4p5MlIPA5e\nnNafFMTgrLfgejkjoOnzFQjj5K4/ch7Nw4etcy7JXxxFVW4xFyMxaT5QF0T9S+EM\nnsutOjUsv/YMPhat3+txSwGpwuFw9RUur48mTYwAnCSzGgsJprG2SIhPZUyox0vV\n1L8afCO98OFSq8yo2hzCI/WW7wKBgQDKj6Hfu/EliUdXemdXolaBvkkmMJI/PXfP\nn2tQi7aljfYIaSOsUCwFft7OuJfEBJ19c8CLuIwG8pv8TcnQn5jNiFdoVJgM4Hm8\nj64WZI5cwQO02MI9HlMytQOffv5tysiEYDLfL0Jysz/Hvuw+Xuor/V1xDhoBj/ej\n8qy2bbJBDwKBgQCznvgXe034wzDYbNhbSMR/B+2qvx/7rf/sEck+5Z9rovaoeDzG\ntVb6rGr/QKdWFeLYesg5BSKmG6I9GxwiSfKC7/fJ/tBomG5ix7yjRaHbBxOabO01\nMBzn8ozkUjUwqeB3zF4gOhCUn2UPTod/3ciHhcTb0tKgzWZ82+9+MsFEKwKBgAHo\n/NPJR+rcsomGo/bVlw8+Jh5wEtD52WlhzXdC+gPxpMJLi4SSdPfQTHWSlAvLJ1kJ\ngGVQ5jEilIn6ic6n0p8NjBV1xsFIVJ2MlU2swRLq1wgbiylcYdh2kIQuhGOwp9dn\nuNMV9QBz5EQT7tJfvsGPcBQi1+fv3Zv0K+DEhAvNAoGAQdXg+sHVo0GAtobKZcsR\ngNyWLVlpAnJs+GAvnMT8KKHsrmJzHzTYJUlHslOdxk/ikZ4YwPqYHJqTjsudJIcf\nBtjYnPnrDDNYb5PH5W1ApFCXhS2sTNl4aBUEwU5AWQ0UiWyWTWrChUo7AYRQYvoT\niJ0cxyPWLe3GOe3c8IKtJu4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "owner-177@snappy-gantry-319622.iam.gserviceaccount.com",
+  "client_id": "104448980222568982657",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owner-177%40snappy-gantry-319622.iam.gserviceaccount.com"
+}
