@@ -20,10 +20,6 @@ while True:
         UName = input("Enter your UserName:")
         Upass = input("Enter your Password:")
         c.loginSys.login(UName, Upass)
-        # if chk == True:
-        #     print("Do appointment")
-        # else:
-        #     print("please enter correct credentials")
 
     # Booking
     else:
