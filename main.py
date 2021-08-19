@@ -1,11 +1,4 @@
 import clinc as c
-# from google.oauth2 import service_account
-# from google.cloud import bigquery
-#
-# cre = service_account.Credentials.from_service_account_file('C:/Users/ronak/PycharmProjects/Project/snappy.json')
-# proj = "snappy-gantry-319622"
-# sql = bigquery.Client(credentials=cre, project=proj)
-# ans = sql.query("""select * from `snappy-gantry-319622.WalkInClinc.Patients`""")
 
 while True:
     main = input("""
