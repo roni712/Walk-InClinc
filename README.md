@@ -7,4 +7,4 @@ as well as visualization in graphs such as pie chart, barPlot to get better insi
 <h2>Tech Used To Bulit this App</h2>
 Big query (Google Cloud) To store data<br>
 Python.<br>
-Packages of python such as <b>Pandas</b>, <b>matplotlib</b>,<b>numpy</b>,<b>csv</b>
+Packages of Python such as <b>Pandas</b>, <b>matplotlib</b>,<b>numpy</b>, and <b>csv</b>
